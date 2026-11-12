@@ -231,24 +231,27 @@ function App() {
           </div>
 
           <div className="about-description">
+             <p>
+               I am a Computer Science graduate with a background in Mathematics and Statistics, 
+               passionate about building responsive, user-friendly web applications and exploring new technologies.
+             </p>
             <p>
-              I am a B.Sc. graduate in Mathematics, Statistics and Computer
-              Science, interested in software and frontend development.
-              I enjoy learning technologies and applying my knowledge
-              through practical projects.
+              I have developed a foundation in HTML, CSS, JavaScript, React, and Node.js, along with knowledge of Java and SQL.
+              I enjoy turning ideas into practical applications, working on hands-on projects, and continuously improving my programming 
+              and problem-solving skills.
+            </p>
+            <p>
+              Beyond technology, I have been actively involved in volunteering activities with NGO Nachiketa Tapovan, 
+              participating in tree plantation drives, public awareness initiatives, and community service. 
+              These experiences have helped me develop teamwork, communication, and a sense of social responsibility.
+
+            </p>
+            <p>
+              I am eager to begin my professional journey in software development, contribute to meaningful projects,
+              and grow as a developer.
+
             </p>
 
-            <p>
-              My technical learning includes HTML, CSS, JavaScript, React,
-              Node.js, Java and SQL. I am also developing my problem-solving
-              skills through programming practice and DSA.
-            </p>
-
-            <p>
-              Apart from technical knowledge, I have actively participated
-              in volunteering activities with NGO Nachiketa Tapovan,
-              including tree plantation, public awareness and community service.
-            </p>
           </div>
 
           <div className="about-highlights">
