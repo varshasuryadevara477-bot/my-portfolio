@@ -234,23 +234,14 @@ textarea {
   align-items: center;
 }
 
-.photo-decoration {
-  position: absolute;
-  width: 300px;
-  height: 350px;
-  border: 2px solid var(--purple-light);
-  border-radius: 25px;
-  transform: rotate(7deg);
-  background: var(--surface2);
-}
 
 .profile-photo {
   position: relative;
-  width: 290px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
   object-position: center;
-  border-radius: 20px;
+  border-radius:50%;
   border: 6px solid white;
   box-shadow: var(--shadow);
 }
